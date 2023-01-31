@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Manujtyagi 
-RaghulXander
-/
-Melanoma-CNN-Prediction
-Public
-Fork your own copy of RaghulXander/Melanoma-CNN-Prediction
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Melanoma-CNN-Prediction/README.md
-@RaghulXander
-RaghulXander Update README.md
-Latest commit 4941799 on Jun 25, 2021
- History
- 1 contributor
-59 lines (43 sloc)  3.36 KB
 
 # Melanoma-CNN-Prediction
 
@@ -81,23 +53,4 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
   - Choose an appropriate optimiser and loss function for model training
   - Train the model for ~30 epochs
   - Write your findings after the model fit, see if the issues are resolved or not?
- 
 
- 
-
-The model training may take time to train and hence you can use Google colab.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Melanoma-CNN-Prediction/README.md at main · RaghulXander/Melanoma-CNN-Prediction 
